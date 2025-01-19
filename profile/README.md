@@ -1,14 +1,16 @@
 # Redbird Software Corp
 _“The design is not just what it looks like and feels like. The design is how it works.” — Steve Jobs_
-## **Actionables**
-— **An hour or day of design is worth weeks or months in production**
-— **The assertion density of a codebase must average a minimum of 2 assertions per function**
-— **Use strict types, especially with sizes, at all times!**
-— **Assert and test… A LOT!!! This is true safety**
-— **Use the compiler’s strictest settings**
-— **All errors must be handled**
-— **Top-Level Doc describes the goal of the codebase or test. ESSENTIAL**
-— **Put the `main` function at the top. Order the rest alphabetically if you’re confused on order**
+## STYLE GUIDE
+### **Actionables**
+— **An hour or day of design is worth weeks or months in production**  
+— **The assertion density of a codebase must average a minimum of 2 assertions per function**  
+— **Use strict types, especially with sizes, at all times!**  
+— **Assert and test… A LOT!!! This is true safety**  
+— **Use the compiler’s strictest settings**  
+— **All errors must be handled**  
+- **Everything except constants use snake case. Constants use camel**  
+— **Top-Level Doc describes the goal of the codebase or test. ESSENTIAL**  
+— **Put the `main` function at the top. Order the rest alphabetically if you’re confused on order**  
 
 
 **UNIX PHILOSOPHY**
