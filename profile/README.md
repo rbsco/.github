@@ -8,7 +8,7 @@ _“The design is not just what it looks like and feels like. The design is how 
 — **Assert and test… A LOT!!! This is true safety**  
 — **Use the compiler’s strictest settings**  
 — **All errors must be handled**  
-- **Everything except constants use snake case. Constants use camel**  
+— **Everything except constants use snake case. Constants use camel**  
 — **Top-Level Doc describes the goal of the codebase or test. ESSENTIAL**  
 — **Put the `main` function at the top. Order the rest alphabetically if you’re confused on order**  
 
