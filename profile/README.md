@@ -3,9 +3,10 @@ _“The design is not just what it looks like and feels like. The design is how 
 ## STYLE GUIDE
 ### **ACTIONABLES**
 — **An hour or day of design is worth weeks or months in production**  
-— **The assertion density of a codebase must average a minimum of 2 assertions per function**  
+— **The assertion density of a codebase must average a minimum of 2 assertions per function. Assert the input var, assert the return val/type**  
+— **Assert and test… A LOT!!! This is true safety**
+— **Pass ALL tests**  
 — **Use strict types, especially with sizes, at all times!**  
-— **Assert and test… A LOT!!! This is true safety**  
 — **Use the compiler’s strictest settings**  
 — **All errors must be handled**  
 — **Everything except constants use snake case. Constants use camel**  
