@@ -1,7 +1,7 @@
 # Redbird Software Corp
 _“The design is not just what it looks like and feels like. The design is how it works.” — Steve Jobs_
 ## STYLE GUIDE
-### **Actionables**
+### **ACTIONABLES**
 — **An hour or day of design is worth weeks or months in production**  
 — **The assertion density of a codebase must average a minimum of 2 assertions per function**  
 — **Use strict types, especially with sizes, at all times!**  
